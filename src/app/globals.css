@@ -16,12 +16,12 @@
   --swiper-wrapper-transition-timing-function: linear !important;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 h1, h2, h3, h4, h5, h6, button{
   margin-top: 10px;
