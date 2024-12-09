@@ -603,7 +603,7 @@ section.pricing-content-section {
 .swiper{
   pointer-events: none;
 }
-.th-partners-section-container{
+.th-partners-section-container{ 
   margin-top: -200px;
   position: relative;
 }
