@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+  <g clip-path="url(#clip0_2002_3080)">
+    <g filter="url(#filter0_d_2002_3080)">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M18.3327 9.99935C18.3327 14.6017 14.6017 18.3327 9.99935 18.3327C5.39698 18.3327 1.66602 14.6017 1.66602 9.99935C1.66602 5.39698 5.39698 1.66602 9.99935 1.66602C14.6017 1.66602 18.3327 5.39698 18.3327 9.99935ZM13.358 7.47407C13.602 7.71815 13.602 8.11388 13.358 8.35796L9.19129 12.5246C8.94721 12.7687 8.55148 12.7687 8.30741 12.5246L6.64074 10.858C6.39666 10.6139 6.39666 10.2182 6.64074 9.97407C6.88482 9.73 7.28055 9.73 7.52462 9.97407L8.74935 11.1988L10.6117 9.33644L12.4741 7.47407C12.7182 7.23 13.1139 7.23 13.358 7.47407Z" fill="url(#paint0_radial_2002_3080)"/>
+    </g>
+  </g>
+  <defs>
+    <filter id="filter0_d_2002_3080" x="-2.33398" y="-2.33398" width="24.666" height="24.666" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feMorphology radius="4" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_2002_3080"/>
+      <feOffset/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.462745 0 0 0 0 0.168627 0 0 0 0.32 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2002_3080"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2002_3080" result="shape"/>
+    </filter>
+    <radialGradient id="paint0_radial_2002_3080" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(9.99935 1.66602) rotate(90) scale(16.6667 13.9125)">
+      <stop stop-color="#FCD445"/>
+      <stop offset="1" stop-color="#FF742A"/>
+    </radialGradient>
+    <clipPath id="clip0_2002_3080">
+      <rect width="20" height="20" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
