@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { montserrat } from "../fonts";
 import { poppins } from "../fonts";
 
@@ -24,10 +25,10 @@ export default function Footer() {
             <footer className="footer page-width text-white border-base-300  px-10 py-6">
             <aside className="grid-flow-col items-center">
                 <nav className={`${poppins.className} grid grid-flow-col gap-7`}>
-                    <a className="link link-hover">Pricing</a>
-                    <a className="link link-hover">Referral Program</a>
-                    <a className="link link-hover">Blog</a>
-                    <a className="link link-hover">FAQ</a>
+                    <Link href="/pricing" className="link link-hover"> Pricing</Link>
+                    <Link href="/referral-program" className="link link-hover">Referral Program</Link>
+                    <Link href="/faq" className="link link-hover">Blog</Link>
+                    <Link href="/faq" className="link link-hover">FAQ</Link>
                 </nav>
             </aside>
             <nav className="md:place-self-center md:justify-self-end">

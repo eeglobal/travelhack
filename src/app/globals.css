@@ -607,3 +607,8 @@ section.pricing-content-section {
   margin-top: -200px;
   position: relative;
 }
+@media screen and (max-width: 768px){
+  .th-partners-section-container{ 
+    margin: 20px;
+  }
+}

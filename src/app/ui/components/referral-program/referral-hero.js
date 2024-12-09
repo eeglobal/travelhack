@@ -8,7 +8,7 @@ export default function ReferralHero() {
             <div className="referral-section-hero-wrapper">
                 <div className="referral-section-hero-container page-width">
                     <div className="referral-section-row flex flex-col items-center gap-4 sm:flex-row">
-                        <div className="referral-section-column text-white basis-1/2">
+                        <div className="referral-section-column text-white basis-1/2 text-center sm:text-left">
                             <h1 className={`${rubik.className} section-title text-xl font-bold`} >Spend Less, Travel More
                             — Earn Big with TravelHack!</h1>
                             <p className={` ${inter.className} py-4 text-lg`}>
