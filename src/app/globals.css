@@ -600,7 +600,7 @@ section.pricing-content-section {
   background: #FFF;
   box-shadow: 10px 10px 50px 0px rgba(36, 14, 0, 0.13);
 }
-.swiper{
+.th-partners-section-container .swiper{
   pointer-events: none;
 }
 .th-partners-section-container{ 
